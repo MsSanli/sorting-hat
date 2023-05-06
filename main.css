@@ -1,0 +1,14 @@
+body {
+  background-color: goldenrod;
+}
+
+
+.container-left {
+  width: 50%;
+  float: left;
+}
+
+.container-right {
+  width: 50%;
+  float: left;
+}
